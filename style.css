@@ -115,3 +115,22 @@ article header p {
   right: 1rem;
   font-size: 80%;
 }
+
+#profile-stats dl {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  text-align: center;
+}
+
+#profile-stats dt {
+  grid-row: 1;
+  color: gray;
+  font-size: 80%;
+}
+
+#profile-stats dd {
+  grid-row: 2;
+  margin: 0;
+  font-size: 200%;
+  font-weight: bold;
+}

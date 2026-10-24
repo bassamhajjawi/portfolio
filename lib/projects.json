@@ -1,63 +1,74 @@
-document:
 [
-    {
-        "title": "Lorem ipsum dolor sit.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab eius repellat laudantium? Fugiat animi velit\n                optio vel quibusdam, hic tempore voluptates temporibus culpa, quaerat saepe iste, est magnam expedita\n                fugit."
-    },
-    {
-        "title": "Dolore vitae ullam repellat.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Facere porro, sapiente reiciendis aliquid quas ex sunt provident atque distinctio quo illum culpa\n                aspernatur est, nemo, rem ad? Nihil pariatur at qui neque aut expedita odit delectus consectetur illo.\n            "
-    },
-    {
-        "title": "Ipsum corrupti consectetur provident!",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Numquam, voluptatibus nihil. Quia blanditiis ipsa dicta labore nesciunt quos non suscipit laudantium?\n                Quibusdam minima delectus dolorem. Tempore eaque ut unde quod vitae incidunt modi quia. Dolorum\n                laboriosam doloremque eum?"
-    },
-    {
-        "title": "Quia quibusdam perferendis expedita.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Quas cum, ducimus ipsa possimus dolores ut voluptatum accusantium! Ea ipsam nam neque consectetur amet\n                provident perferendis incidunt rem, accusantium, architecto, asperiores debitis. Ipsum impedit tempora\n                nihil illum a possimus!"
-    },
-    {
-        "title": "Laudantium sed dolorum corrupti?",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Incidunt alias veniam debitis optio molestias nemo amet, reiciendis molestiae quidem accusantium, minima\n                aliquid sunt, explicabo enim? Architecto repellat eligendi omnis nostrum earum, illo pariatur aperiam\n                explicabo, ipsam et incidunt."
-    },
-    {
-        "title": "Nemo culpa ipsa facere.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Blanditiis dolore tempore deserunt sit esse ducimus eius, rem nobis doloribus ipsam dolorum voluptatibus,\n                adipisci excepturi cumque eos reprehenderit aut? Iusto similique, deserunt quos ullam ut voluptates\n                libero voluptatem repellat."
-    },
-    {
-        "title": "Consequuntur minus odio consequatur.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Dolores amet harum ducimus doloremque maxime ea, incidunt dignissimos facilis nulla et, impedit officiis\n                tempora necessitatibus delectus commodi quasi, hic eius eum! Commodi, expedita minus dicta corrupti at\n                nulla ut."
-    },
-    {
-        "title": "Incidunt tenetur reprehenderit officia?",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Quae ducimus illum, culpa libero autem id soluta earum ullam asperiores exercitationem nesciunt nisi\n                optio harum mollitia deleniti explicabo nulla nobis quos non dolore? Commodi laudantium excepturi ipsam\n                praesentium cumque!"
-    },
-    {
-        "title": "Maiores corporis libero possimus?",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Repellendus eum nostrum perferendis voluptas quisquam illum neque, fuga doloribus amet dolores facere a\n                cum veritatis atque aperiam. Quae molestias magni iusto nam unde sint itaque commodi libero reiciendis\n                nemo."
-    },
-    {
-        "title": "Dolorem, quo voluptatum. Eum!",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Quis at atque vel magnam molestiae a non deserunt dolor debitis placeat optio fuga temporibus inventore\n                amet reprehenderit natus vero est, consequuntur unde hic illum blanditiis! Reiciendis voluptatem\n                consectetur expedita."
-    },
-    {
-        "title": "Ipsum et nobis rem!",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Perferendis optio hic aut ratione ab soluta fugit. Reprehenderit repellat veniam dignissimos! Aliquam,\n                aspernatur amet velit nihil eveniet doloremque error repudiandae provident iste corporis, ad beatae\n                dolorem fugit voluptatem quo."
-    },
-    {
-        "title": "Iste assumenda commodi facere?",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Architecto molestiae harum, iure pariatur assumenda commodi? Eveniet maxime atque aperiam asperiores ex\n                itaque quidem, quasi similique impedit voluptates deleniti, voluptatem hic debitis, repudiandae minima!\n                Distinctio aliquam maiores delectus ipsam?"
-    }
+  {
+    "title": "BrikZ",
+    "year": "2026",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "iOS app for LEGO collectors with AI-powered set identification, pricing, and social features."
+  },
+  {
+    "title": "DSC 106 Project 1",
+    "year": "2026",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Ultra proccessed vs. nonprocessed food prices"
+  },
+  {
+    "title": "DSC 106 Project 2",
+    "year": "2026",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Economy vs Climate Change."
+  },
+  {
+    "title": "Car Analysis",
+    "year": "2025",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Fine-tuned a ResNet-50 CNN to classify car images into 8 body types, reaching 83.6% test accuracy."
+  },
+  {
+    "title": "Post-Wildfire Runoff Research",
+    "year": "2025",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Research at Chapman University analyzing post-wildfire hydrological impacts using Google Earth Engine, USGS data, pandas, and QGIS."
+  },
+  {
+    "title": "COGS 118A Final Project",
+    "year": "2025",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Comparing classification models on a real dataset."
+  },
+  {
+    "title": "COGS 138 project 2.5",
+    "year": "2025",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "soon."
+  },
+  {
+    "title": "LEGO Identifier",
+    "year": "2025",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Lego minifigure and set identifier."
+  },
+  {
+    "title": "SHOUZ",
+    "year": "2024",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Full-stack inventory and profit tracker for shoe resellers using Python, React, the StockX API, and Supabase."
+  },
+  {
+    "title": "Recipes Rating Analysis",
+    "year": "2026",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "Data analysis of recipes and their user ratings, exploring what factors relate to how highly a recipe is rated."
+  },
+  {
+    "title": "COGS 108 Project",
+    "year": "2024",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "NFL running backs injury analysis."
+  },
+  {
+    "title": "Portfolio Website",
+    "year": "2026",
+    "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+    "description": "This site, built with HTML, CSS, and JavaScript."
+  }
 ]
