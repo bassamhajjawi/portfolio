@@ -204,3 +204,22 @@ path.selected {
   padding: 0.5em;
   margin-bottom: 1em;
 }
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  text-align: center;
+}
+
+.stats dt {
+  grid-row: 1;
+  color: gray;
+  font-size: 80%;
+}
+
+.stats dd {
+  grid-row: 2;
+  margin: 0;
+  font-size: 200%;
+  font-weight: bold;
+}
