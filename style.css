@@ -275,3 +275,25 @@ circle {
 circle:hover {
   transform: scale(1.5);
 }
+
+circle.selected {
+  fill: #ff6b6b;
+}
+
+@keyframes marching-ants {
+  to {
+    stroke-dashoffset: -8;
+  }
+}
+
+.selection {
+  fill-opacity: 0.1;
+  stroke: currentColor;
+  stroke-opacity: 0.7;
+  stroke-dasharray: 5 3;
+  animation: marching-ants 2s linear infinite;
+}
+
+#language-breakdown dd {
+  font-size: 120%;
+}
