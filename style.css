@@ -223,3 +223,11 @@ path.selected {
   font-size: 200%;
   font-weight: bold;
 }
+
+.gridlines line {
+  stroke-opacity: 0.15;
+}
+
+.gridlines .domain {
+  display: none;
+}
